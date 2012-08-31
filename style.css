@@ -2725,6 +2725,6 @@ p.comment-form-comment {
         margin-top: 10px;
 }
 
-div#flightbox {
+div#flightbox, div#floverlay {
         z-index: 9999;
 }
