@@ -2710,3 +2710,7 @@ p.comment-form-comment {
 .flickr-gallery-prev {
         margin-top: 10px;
 }
+
+div#flightbox {
+        z-index: 9999;
+}
