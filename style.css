@@ -511,9 +511,10 @@ a:hover {
 	position: relative;
 	z-index: 9999;
 }
+
 #site-title {
 	margin-right: 270px;
-	padding: 3.65625em 0 0;
+	padding: 1.5em 0 0em;
 }
 #site-title a {
 	color: #111;
@@ -530,7 +531,7 @@ a:hover {
 #site-description {
 	color: #7a7a7a;
 	font-size: 14px;
-	margin: 0 270px 3.65625em 0;
+	margin: 0 270px 1.5em 0;
 }
 #branding img {
 	height: auto;
@@ -629,7 +630,7 @@ a:hover {
 /* Search Form */
 #branding #searchform {
 	position: absolute;
-	top: 3.8em;
+	top: 2.4em;
 	right: 7.6%;
 	text-align: right;
 }
@@ -722,7 +723,7 @@ a:hover {
 }
 .entry-title,
 .entry-header .entry-meta {
-	padding-right: 76px;
+	padding-right: 40px;
 }
 .entry-title {
 	clear: both;
@@ -2250,7 +2251,7 @@ p.comment-form-comment {
 	color: #666;
 	font-size: 12px;
 	line-height: 2.2em;
-	padding: 2.2em 0.5em;
+	padding: 0.5em 0.5em;
 	text-align: center;
 }
 #site-generator a {
