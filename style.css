@@ -759,7 +759,7 @@ a:hover {
 }
 .entry-content,
 .entry-summary {
-	padding: 1.625em 0 0;
+	padding: 0.8125em 0 0;
 }
 .entry-content h1,
 .entry-content h2,
@@ -2713,6 +2713,47 @@ p.comment-form-comment {
         list-style-type: none;
         padding-right: 30px;
 }
+
+.software-section {
+        margin: 0 0 1.5em 0;
+        padding: 0;
+}
+
+.software-section h1 {
+        margin-bottom: 0.5em;
+        padding: 0;
+        font-size: 1.4em;
+}
+
+h1.talks-year-header {
+        margin-bottom: 0.5em;
+        padding: 0;
+        font-size: 1.8em;
+}
+
+div.talks-talk {
+        margin: 0 0 1.5em 0;
+        padding: 0;
+}
+
+div.talks-talk .talk-name {
+        font-size: 1.2em;
+        font-weight: bold;
+}
+
+div.talks-talk .talk-details {
+        font-size: 1em;
+}
+
+div.talks-talk .talk-link {
+        font-size: 0.9em;
+        font-style: italic
+}
+
+.about-header {
+        font-size: 1.4em;
+}
+
 
 /* Flickr Gallery customizations
 ----------------------------------------------- */
