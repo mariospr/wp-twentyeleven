@@ -116,7 +116,8 @@ body {
 .singular footer.entry-meta,
 .singular #comments-title {
 	margin: 0 auto;
-	width: 68.9%;
+	width: 90%;
+	/* width: 68.9%; */
 }
 
 /* Attachments */
@@ -2698,3 +2699,14 @@ p.comment-form-comment {
 #ie8 section.feature-image.large img { 
 	width: 100%; 
 } 
+
+/* Flickr Gallery customizations
+----------------------------------------------- */
+.flickr-gallery-next {
+        margin-right: 68px;
+        margin-top: 10px;
+}
+
+.flickr-gallery-prev {
+        margin-top: 10px;
+}
