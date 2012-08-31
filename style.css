@@ -11,6 +11,10 @@ Tags: dark, light, white, black, gray, one-column, two-columns, left-sidebar, ri
 Text Domain: twentyeleven
 */
 
+/* Font Imports */
+
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,700&subset=latin&v2);
+
 /* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
 -------------------------------------------------------------- */
 
@@ -23,8 +27,8 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
 	border: 0;
-	font-family: inherit;
-	font-size: 100%;
+	font-family: 'Merriweather', serif;
+	font-size: 99%;
 	font-style: inherit;
 	font-weight: inherit;
 	margin: 0;
