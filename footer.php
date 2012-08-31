@@ -23,8 +23,7 @@
 			?>
 
 			<div id="site-generator">
-				<?php do_action( 'twentyeleven_credits' ); ?>
-				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'twentyeleven' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'twentyeleven' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s', 'twentyeleven' ), 'WordPress' ); ?></a>
+                          © 2006 - present <a href="http://mariospr.org/about" title="About the author">Mario Sánchez Prada</a>
 			</div>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
