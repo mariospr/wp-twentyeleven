@@ -2701,6 +2701,19 @@ p.comment-form-comment {
 	width: 100%; 
 } 
 
+/* Specific theme customizations 
+----------------------------------------------- */
+.contact-links {
+        margin-top: -15px;
+        text-align: center;
+        line-height: 30px;
+}
+.contact-links li {
+        display: inline;
+        list-style-type: none;
+        padding-right: 30px;
+}
+
 /* Flickr Gallery customizations
 ----------------------------------------------- */
 .flickr-gallery-next {
