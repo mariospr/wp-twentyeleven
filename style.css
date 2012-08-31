@@ -942,11 +942,11 @@ img#wpstats {
 img[class*="align"],
 img[class*="wp-image-"],
 #content .gallery .gallery-icon img {/* Add fancy borders to all WordPress-added images but not things like badges and icons and the like */
-	border: 1px solid #ddd;
+	/* border: 1px solid #ddd; */
 	padding: 6px;
 }
 .wp-caption img {
-	border-color: #eee;
+	/* border-color: #eee; */
 }
 a:focus img[class*="align"],
 a:hover img[class*="align"],
@@ -957,14 +957,14 @@ a:active img[class*="wp-image-"],
 #content .gallery .gallery-icon a:focus img,
 #content .gallery .gallery-icon a:hover img,
 #content .gallery .gallery-icon a:active img {/* Add some useful style to those fancy borders for linked images ... */
-	background: #eee;
-	border-color: #bbb;
+	/* background: #eee; */
+	/* border-color: #bbb; */
 }
 .wp-caption a:focus img,
 .wp-caption a:active img,
 .wp-caption a:hover img {/* ... including captioned images! */
-	background: #fff;
-	border-color: #ddd;
+	/* background: #fff; */
+	/* border-color: #ddd; */
 }
 
 /* Make sure embeds and iframes fit their containers */
