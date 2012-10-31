@@ -2784,3 +2784,14 @@ div#flightbox, div#floverlay {
 .addthis_button_google_plusone {
     width: 4.2em;
 }
+
+
+/* Sharing JetPack
+------------------------------------------------ */
+div.sharedaddy div.sd-block {
+    border-top:0 !important;
+}
+
+div.sharedaddy div.sd-block .sd-content{
+    float:left;
+}
